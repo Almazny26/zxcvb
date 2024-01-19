@@ -1,0 +1,18 @@
+.top_cart {
+  height: 400px;
+  background-image: url(img/basket1.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.cart {
+  display: grid;
+  grid-template-columns: repeat 12, 1fr;
+  gap: 32px;
+}
+.cart__form {
+  height: 556px;
+  border-radius: 20px;
+  background-color: #F7F6F6;
+}/*# sourceMappingURL=cart.css.map */
